@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
+title = 'Livre de cuisine'
+theme = "recipes"
