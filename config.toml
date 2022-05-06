@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://net-mist-recipe.netlify.app/'
 languageCode = 'fr-fr'
 title = 'Livre de cuisine'
 theme = "recipes"
