@@ -12,9 +12,11 @@
           <h1 class="title is-1">
             {{ .Title }}
           </h1>
+          {{ with .Params.Summary }}
           <h6 class="subtitle is-6">
-            {{ .Summary }}
+            {{ . }}
           </h6>
+          {{ end }}
         </div>
       </div>
       <div style="margin-top: 1em;">

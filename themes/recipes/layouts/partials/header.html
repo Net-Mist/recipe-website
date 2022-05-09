@@ -3,5 +3,11 @@
     <a class="navbar-item" href="/">
       {{ $.Site.Title }}
     </a>
+
+    {{ range .Site.Sections.ByWeight }}
+      <a class="navbar-item" href="{{ .Permalink  }}">
+        {{ .Title }}
+      </a> 
+    {{ end }}
   </div>
 </nav>

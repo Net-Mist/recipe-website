@@ -7,13 +7,13 @@
     {{ end }}
     <div>
       <div>{{ .Title }}</div>
-      <small class="has-text-grey">{{ .Summary }}</small>
+      <!-- <small class="has-text-grey">{{ .Summary }}</small> -->
+      <div style="margin-top: 0.5em;">
+        <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+        {{ range .Params.Tags }}
+        <span class="tag">{{ . }}</span>
+        {{ end }}
+      </div>
     </div>
-  </div>
-  <div style="margin-top: 0.5em;">
-    <span class="tag is-primary is-light">{{ .Params.Time }}</span>
-    {{ range .Params.Tags }}
-    <span class="tag">{{ . }}</span>
-    {{ end }}
   </div>
 </a>
