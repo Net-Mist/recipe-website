@@ -14,7 +14,7 @@ time: "40m"
 * yaourt nature : 1
 * farine : 150 g (environ 3 pots de yaourt)
 * sachet de levure : 1/2 
-* huile d'olive : 1/2 pot (environ 50 ml)
+* <a name="i4"></a> huile d'olive : 1/2 pot (environ 50 ml)
 * œufs  :3 
 * gruyère râpé : 100 g
 * olives : Environ 20 dénoyautées de chaque couleur (noires, vertes)
@@ -32,7 +32,7 @@ Facultatif :
 ## Préparation
 1. Préchauffer le four à 180°C (Th 6)
 1. Dans un saladier, mélanger le yaourt, la farine, la levure et les œufs. 
-1. Ajouter l'huile. Bien mélanger. 
+1. Ajouter l'[huile](#i4). Bien mélanger. 
 1. Ajouter le gruyère râpé, le basilic et les olives coupées en petits morceaux.
 1. Incorporer éventuellement le jambon (coupé en dés), les tomates séchées et le fromage de chèvre.
 1. Verser dans un moule à cake préalablement beurré et fariné. Cuire 40 minutes au four à 180° C (thermostat 6).
