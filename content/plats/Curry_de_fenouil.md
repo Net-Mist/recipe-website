@@ -1,0 +1,33 @@
+---
+title: Curry de fenouil
+time: 30m
+servings: 6
+source: https://www.marmiton.org/recettes/recette_fenouil-au-curry_165902.aspx
+---
+
+## Ingrédients
+
+* fenouils : 4 bulbes
+* citron
+* huile d'olive
+* sel
+* poivre
+* eau : 1 verre
+* pâte de curry : 1 cuillère à café
+* crème fraîche (ou un yaourt nature pour une version allégée) : 2 cuillères à soupe
+
+
+## Materiel
+
+* sauteuse
+
+
+## Préparation
+
+* Couper les {{< ingredient "fenouils" "4 bulbes" >}} en petits cubes
+* Préparer le jus d'un 1/2 citron
+* Dans une sauteuse, faire chauffer un filet d'huile d'olive. Mettre le fenouil, assaisonner avec le sel et le poivre. Ajouter le verre d'{{< ingredient "eau" "1 verre" >}}. Couvrir et faire cuire à feu moyen durant 15 min. Remuer de temps en temps.
+* Dans un bol, mettre la cuillère de {{< ingredient "pâte de curry" "1 cuillère à café" >}} et la {{< ingredient "crème fraîche (ou un yaourt nature pour une version allégée)" "2 cuillères à soupe" >}}. Bien mélanger.
+* Quand les fenouils sont cuits, ajouter le jus de citron. Remuer.
+* Ajouter la préparation curry/crème (ou yaourt)aux fenouils.
+

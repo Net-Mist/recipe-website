@@ -13,7 +13,7 @@ crème à l'emmental et parmesan
 * emmental : 120 g
 * parmesan : 200 g
 * œuf : 4 
-* poivre : some 
+* poivre
 
 croque
 * pain de mie : 8 
@@ -29,7 +29,7 @@ croque
 
 
 crème à l'emmental et parmesan
-* Dans un bol mélanger la {{< ingredient "crème fraîche" "16 cl" >}}, râper l'{{< ingredient "emmental" "120 g" >}} et le {{< ingredient "parmesan" "200 g" >}}. Ajouter les jaunes d'{{< ingredient "œuf" "4 " >}}. Assaisonner de {{< ingredient "poivre" "some " >}} du moulin.
+* Dans un bol mélanger la {{< ingredient "crème fraîche" "16 cl" >}}, râper l'{{< ingredient "emmental" "120 g" >}} et le {{< ingredient "parmesan" "200 g" >}}. Ajouter les jaunes d'{{< ingredient "œuf" "4 " >}}. Assaisonner de poivre du moulin.
 
 croque
 * Beurrer une face d'une tranche de {{< ingredient "pain de mie" "8 " >}}, y disposer 1 tranche de {{< ingredient "jambon" "600 g" >}} 1 tranche d'{{< ingredient "emmental" "600 g" >}}, 1 tranche de jambon, 1 tranche d'emmental. Tartiner les 2 côtés de la deuxième tranche de pain avec la crème à l'emmental et parmesan.

@@ -9,7 +9,7 @@ source: https://www.marmiton.org/recettes/recette_chili-con-carne-express_14369.
 
 * oignon : 1 
 * ail : 1 gousse
-* huile d'olive : some 
+* huile d'olive
 * viande hachée : 400 g
 * poudre a chili : 2 cuillères à café
 * haricots rouges en boîte : 400 g
@@ -24,7 +24,7 @@ source: https://www.marmiton.org/recettes/recette_chili-con-carne-express_14369.
 ## Préparation
 
 * Hacher l'{{< ingredient "oignon" "1 " >}} et l'{{< ingredient "ail" "1 gousse" >}}.
-* Faire chauffer l'{{< ingredient "huile d'olive" "some " >}} dans une cocotte, faire fondre l'oignon et l'ail.
+* Faire chauffer l'huile d'olive dans une cocotte, faire fondre l'oignon et l'ail.
 * Ajouter la {{< ingredient "viande hachée" "400 g" >}}, la laisser prendre couleur.
 * Ajouter la {{< ingredient "poudre a chili" "2 cuillères à café" >}} (suivant les goûts, + ou - pimenté).
 * Egoutter les {{< ingredient "haricots rouges en boîte" "400 g" >}}, les versez dans la cocotte avec les {{< ingredient "tomates pelées en boîte" "400 g" >}}.
