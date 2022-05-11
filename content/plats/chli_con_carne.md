@@ -18,7 +18,7 @@ source: https://www.marmiton.org/recettes/recette_chili-con-carne-express_14369.
 
 ## Materiel
 
-* cocotte,
+* cocotte
 
 
 ## Préparation
