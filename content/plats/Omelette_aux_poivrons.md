@@ -1,6 +1,6 @@
 ---
 title: Omelette aux poivrons
-time: 32
+time: 32m
 servings: 2
 source: https://www.750g.com/omelette-aux-poivrons-rouges-r74190.htm
 ---

@@ -1,0 +1,34 @@
+---
+title: Tacos au poivron
+time: 34m
+servings: 3
+source: https://www.marmiton.org/recettes/recette_tacos-aux-poivrons_349823.aspx
+---
+
+## Ingrédients
+
+* oignon : 1 
+* huile d'olive : 3 cuillères à soupe
+* poivrons rouges : 2 
+* tortillas : 3 
+* philadelphia : 75 g
+* parmesan
+* origan
+
+
+## Materiel
+
+* poêle
+
+
+## Préparation
+
+* Epluchez l'{{< ingredient "oignon" "1 " >}} et découpez-le en lanières.
+* Faites chauffer l'{{< ingredient "huile d'olive" "3 cuillères à soupe" >}} dans une poêle haute à feu moyen/fort et mettre l'oignon à revenir une fois l'huile bien chaude. Les faire revenir 5 minutes si vous les aimez quand ils sont bien dorés.
+* Pendant la cuisson de l'oignon, épépinez les {{< ingredient "poivrons rouges" "2 " >}} et coupez les en lanières.
+* Ajoutez-les aux oignons et salez et poivrez à ce moment. Faites revenir le tout 10 minutes (un peu moins pour ceux qui aime les poivrons croquants).
+* Pendant que les poivrons cuisent, tartinez les {{< ingredient "tortillas" "3 " >}} de {{< ingredient "philadelphia" "75 g" >}} sur la moitié et préchauffez votre four à 220°C (thermostat 7) en mode traditionnel + grill (important!).
+* Répartissez les poivrons et oignon dans les tortillas, refermez-les sur elles-mêmes puis saupoudrez de parmesan fraichement râpé. Ajouter un peu d'origan sur le dessus et un peu de poivre moulu si vous aimez quand c'est un peu relevé.
+* Enfournez pour 3-4 minutes sur une plaque couverte de papier sulfurisé au niveau juste au dessus de mi-hauteur (niveau 3), attention à bien surveiller car les tortillas vont vite dorer et le parmesan doit juste être roussi.
+
+
