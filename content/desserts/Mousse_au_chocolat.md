@@ -17,7 +17,6 @@ servings: 6
 
 ## Préparation
 
-* >> source:
 * faire fondre le {{< ingredient "chocolat noir" "100 g" >}}
 * separer le blanc des jaunes d'{{< ingredient "oeuf" "3 " >}}
 * incorporer jaunes et {{< ingredient "sucre vanillé" "1 sachet" >}} au chocolat fondu

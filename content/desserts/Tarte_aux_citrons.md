@@ -31,7 +31,6 @@ Meringue
 
 ## Préparation
 
-* >> source:
 
 Pâte sablée
 * Préchauffer le four à 180

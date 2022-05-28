@@ -20,7 +20,6 @@ servings: 6
 
 ## Préparation
 
-* >> source:
 * Préchauffer le four thermostat 6 (180°).
 * Casser les {{< ingredient "œufs" "4 " >}} en séparant les blancs des jaunes. Faire fondre le {{< ingredient "beurre" "80 g" >}} avec le {{< ingredient "chocolat noir à pâtissier" "200 g" >}} dans une casserole ou au micro-onde. Ajouter le {{< ingredient "sucre en poudre" "120 g" >}} puis la {{< ingredient "farine" "4 cuillères à soupe (~50g)" >}} et les jaunes d'œuf. Bien mélanger.
 * Battre les blancs en neige avec une {{< ingredient "pincée de sel" "1 " >}}. Les ajouter délicatement au mélange en soulevant la pâte.

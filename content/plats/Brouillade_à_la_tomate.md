@@ -24,7 +24,6 @@ Remarques
 
 ## Préparation
 
-* >> source:
 * Laver les {{< ingredient "tomates bien mures" "4 " >}} et les mettre 2mn au micro-onde (ou dans une casserole d'eau bouillante) avant de les peler. Les couper en morceaux et les mixer au robot.
 * Mettre un peu {{< ingredient "huile d'olive" "1 cuillère à soupe" >}} au fond d'une poêle. Y déposer les tomates et ajouter un morceau de {{< ingredient "sucre" "1 cuillère à soupe" >}}. Saler et porter à ébullition à feu vif. Couvrir et faire cuire 15mn.
 * Battre les {{< ingredient "œufs" "6 " >}} entiers, les saler et les poivrer puis les ajouter aux tomates. Faire cuire à feu très doux en remuant constamment.

@@ -18,7 +18,6 @@ servings: 6
 
 ## Préparation
 
-* >> source:
 * Faire fondre le {{< ingredient "chocolat noir à pâtisserie" "120 g" >}} avec le {{< ingredient "beurre" "80 g" >}} très doucement, en remuant bien.
 * Hors du feu, ajouter le {{< ingredient "sucre glace" "50 g" >}} et bien remuer.
 * Verser les {{< ingredient "corn flakes" "150 g" >}} dans la casserole et mélanger délicatement sans les écraser.

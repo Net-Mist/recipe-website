@@ -29,7 +29,6 @@ Remarques
 
 ## Préparation
 
-* >> source:
 * Préchauffer le four à 180° (th 6).
 * Vider le {{< ingredient "yaourt" "1 " >}} dans un plat creux. Laver le pot et l'essuyer. Verser le {{< ingredient "sucre en poudre" "1.5 pot" >}}, l'{{< ingredient "huile d'arachide" "1/2 pot" >}} et le {{< ingredient "sel" "1 pincée" >}} dans le plat. Ajouter la {{< ingredient "farine" "3 pots" >}} et la {{< ingredient "levure" "1/2 sachet" >}} puis les {{< ingredient "œufs entiers" "3 " >}}. Bien mélanger.
 * Beurrer le moule (rond ou à cake) ou le papier de cuisson disposé dans le moule. Y verser la pâte et faire cuire au four pendant 45 min.

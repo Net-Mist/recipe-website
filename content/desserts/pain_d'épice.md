@@ -2,7 +2,6 @@
 title: pain d'épice
 time: 60m
 servings: 6
-source: 
 ---
 
 ## Ingrédients

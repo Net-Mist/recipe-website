@@ -23,7 +23,6 @@ servings: 6
 
 ## Préparation
 
-* >> source:
 * Préchauffer le four à 210°C (Th 6, 7)
 * Etaler la pâte sablée ({{< ingredient "farine" "200 g" >}}, {{< ingredient "beurre" "100 g" >}}, {{< ingredient "sucre" "100 g" >}}, {{< ingredient "sel" "une pincée " >}}, eau) au fond d'un plat à tarte préalablement beurré. Piquer le fond avec une fourchette. Badigeonner le tour avec un peu de lait ou d'œuf battu pour qu'il dore un peu et faire cuire à blanc 10mn environ à four chaud (180°C).
 * Peler et épépiner les {{< ingredient "pommes" "800 g" >}}. Les couper en lamelles assez épaisses et les ranger sur la pâte en les faisant légèrement se chevaucher.

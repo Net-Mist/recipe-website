@@ -30,7 +30,6 @@ Remarques
 
 ## Préparation
 
-* >> source:
 * Préchauffer le four à 180° C (th6).
 * Eplucher les {{< ingredient "belles pommes" "6-7 " >}}, les couper en morceaux et les répartir dans un plat légèrement beurré. (On peut ici les soupoudrer de {{< ingredient "cannelle" "1 c" >}} et de {{< ingredient "sucre vanillé" "1 sachet" >}})
 * Préparer la pâte en mélangeant du bout des doigts la {{< ingredient "farine" "150 g" >}}, le {{< ingredient "sucre" "75 g" >}} et le {{< ingredient "beurre" "75 g" >}}, jusqu'à obtention d'une sableuse.
