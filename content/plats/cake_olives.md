@@ -29,8 +29,8 @@ Facultatif
 ## Préparation
 
 * Préchauffer le four à 180°C (Th 6)
-* Dans un saladier, mélanger le {{< ingredient "yaourt" "1 " >}}, la {{< ingredient "farine" "150 g (environ 3 pots de yaourt)" >}}, la {{< ingredient "levure" "1/2 sachet" >}} et les {{< ingredient "œufs" "3 " >}}. 
-* Ajouter l'{{< ingredient "huile d'olive" "1/2 pot (environ 50 ml)" >}}. Bien mélanger. 
+* Dans un saladier, mélanger le {{< ingredient "yaourt" "1 " >}}, la {{< ingredient "farine" "150 g (environ 3 pots de yaourt)" >}}, la {{< ingredient "levure" "1/2 sachet" >}} et les {{< ingredient "œufs" "3 " >}}.
+* Ajouter l'{{< ingredient "huile d'olive" "1/2 pot (environ 50 ml)" >}}. Bien mélanger.
 * Ajouter le {{< ingredient "gruyère râpé" "100 g" >}}, le basilic et les {{< ingredient "olives" "Environ 20 dénoyautées de chaque couleur (noires, vertes) " >}} coupées en petits morceaux.
 * Verser dans un moule à cake préalablement beurré et fariné. Cuire 40 minutes au four à 180° C (thermostat 6).
 * Retirer le cake du four quand il est doré. Le servir tiède ou froid.

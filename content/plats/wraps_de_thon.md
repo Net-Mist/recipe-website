@@ -2,7 +2,6 @@
 title: wraps de thon
 time: 15m
 servings: 6
-source: 
 ---
 
 ## Ingrédients
@@ -26,6 +25,7 @@ Suggestions
 
 ## Préparation
 
+* >> source:
 * Laver la {{< ingredient "laitue" "6 grandes feuilles" >}}, et sélectionner les feuilles les plus vertes
 * Égoutter le {{< ingredient "thon" "150 g" >}} et le mélanger au {{< ingredient "fromage blanc" "6 cuillères à soupe" >}} et au jus de {{< ingredient "citron" "1/2 " >}}, le persil ou la ciboulette. Saler et poivrer. Laver et couper la tomate en rondelles.
 * Sur une {{< ingredient "galette de blé" "6 " >}}, étalez la préparation de façon à ce que la couche ne soit pas trop épaisse.

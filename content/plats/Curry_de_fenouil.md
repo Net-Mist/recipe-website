@@ -31,3 +31,4 @@ source: https://www.marmiton.org/recettes/recette_fenouil-au-curry_165902.aspx
 * Quand les fenouils sont cuits, ajouter le jus de citron. Remuer.
 * Ajouter la préparation curry/crème (ou yaourt)aux fenouils.
 
+

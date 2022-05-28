@@ -29,3 +29,4 @@ variante: https://www.femmeactuelle.fr/cuisine/cuisine-des-chefs/les-lasagnes-au
 * Verser la {{< ingredient "crème liquide" "50 cl" >}} préalablement salée et poivrée.
 * Remettre un peu de parmesan puis cuire à four chaud pendant 25 min.
 
+

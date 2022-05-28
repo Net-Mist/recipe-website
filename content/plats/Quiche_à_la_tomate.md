@@ -2,7 +2,6 @@
 title: Quiche à la tomate
 time: 45m
 servings: 6
-source: 
 ---
 
 ## Ingrédients
@@ -26,6 +25,7 @@ source:
 
 ## Préparation
 
+* >> source:
 * Préchauffer le four à 210°(th 6-7)
 * Préparer la pâte brisée en melangeant la {{< ingredient "farine" "200 g" >}} et le {{< ingredient "beurre" "100 g" >}} avec un peu de sel. Ajouter un peu d'eau
 * Etalez la pâte dans un moule à tarte beurré. Piquez-en le fond avec une fourchette. Faite-la cuire dans le four chaud pendant 15 à 20 minutes,

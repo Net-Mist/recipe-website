@@ -26,6 +26,6 @@ source: https://www.marmiton.org/recettes/recette_cheese-naan_13041.aspx#d56628-
 * Travailler la pâte et ajouter si besoin un peu d'eau tiède afin d'obtenir une pâte molle. Laisser reposer 10 minutes.
 * Séparer la pâte en 6 parts que l'on aplatit en forme de galette.
 * Parsemer généreusement de fromage râpé et redonner un ou deux tours à la pâte (c'est à dire la replier et la repasser au rouleau).
-* Cuire dans une poêle épaisse à revêtement anti-adhésif pendant 3 minutes de chaque côté jusqu'à ce que la galette soit bien gonflée. 
+* Cuire dans une poêle épaisse à revêtement anti-adhésif pendant 3 minutes de chaque côté jusqu'à ce que la galette soit bien gonflée.
 
 
