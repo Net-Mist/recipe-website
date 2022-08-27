@@ -1,0 +1,32 @@
+
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half">
+        <h3 class="title">Recherche</h3>
+        <div class="my-auto" >
+          <form action="{{ "search" | absURL }}">
+            <input id="search-query" name="s"/>
+          </form>
+        </div>
+        <h3 class="title">Résultats</h3>
+      </div>
+</div>
+<div id="search-results">
+</div>
+
+</section>
+<!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
+
+{{ end }}
+
+

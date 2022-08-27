@@ -2,3 +2,6 @@ baseURL = 'https://net-mist-cooking-book.netlify.app/'
 languageCode = 'fr-fr'
 title = 'Livre de cuisine'
 theme = "recipes"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
